@@ -1,0 +1,5 @@
+LIBRARY
+EXPORTS
+    UnpackBC7               @1
+    BC7EncCompressBlockInit @2
+    BC7EncCompressBlock     @3
